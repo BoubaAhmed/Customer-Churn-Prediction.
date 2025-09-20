@@ -1,0 +1,16 @@
+# Core
+numpy
+pandas
+scikit-learn
+imblearn
+
+# Visualization
+matplotlib
+seaborn
+
+# Optional - Jupyter if you used notebooks
+jupyter
+notebook
+
+# Optional - Save/load models
+joblib
